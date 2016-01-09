@@ -1,0 +1,130 @@
+﻿using System;
+
+class NumberCalculations
+{
+    static void Main()
+    {
+        Console.Write("Enter a set of numbers(double): ");
+        string inputStr = Console.ReadLine();
+        double[] arr = new double[inputStr.Split().Length];
+        for (int i = 0; i < arr.Length; i++)
+        {
+            arr[i] = double.Parse(inputStr.Split()[i]);
+        }
+        Console.WriteLine("Min: {0};Max: {1};Average: {2};Sum: {3};Product: {4}", 
+            GetMin(arr), GetMax(arr), GetAverage(arr), GetSum(arr), GetProduct(arr));
+        Console.Write("Enter the second set of numbers(decimal): ");
+        string inputStr2 = Console.ReadLine();
+        decimal[] decimalArr = new decimal[inputStr2.Split().Length];
+        for (int i = 0; i < decimalArr.Length; i++)
+        {
+            decimalArr[i] = decimal.Parse(inputStr2.Split()[i]);
+        }
+        Console.WriteLine("Min: {0};Max: {1};Average: {2};Sum: {3};Product: {4}",
+            GetMin(decimalArr), GetMax(decimalArr), GetAverage(decimalArr), GetSum(decimalArr), GetProduct(decimalArr));
+    }
+    static double GetMin(double[] numbers)
+    {
+        double min = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (min > numbers[i])
+            {
+                min = numbers[i];
+            }
+        }
+        return min;
+    }
+    static decimal GetMin(decimal[] numbers)
+    {
+        decimal min = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (min > numbers[i])
+            {
+                min = numbers[i];
+            }
+        }
+        return min;
+    }
+    static double GetMax(double[] numbers)
+    {
+        double max = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (max < numbers[i])
+            {
+                max = numbers[i];
+            }
+        }
+        return max;
+    }
+    static decimal GetMax(decimal[] numbers)
+    {
+        decimal max = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (max < numbers[i])
+            {
+                max = numbers[i];
+            }
+        }
+        return max;
+    }
+    static double GetAverage(double[] numbers)
+    {
+        double average = 0;
+        foreach (var number in numbers)
+        {
+            average += number;
+        }
+        average /= numbers.Length;
+        return average;
+    }
+    static decimal GetAverage(decimal[] numbers)
+    {
+        decimal average = 0;
+        foreach (var number in numbers)
+        {
+            average += number;
+        }
+        average /= numbers.Length;
+        return average;
+    }
+    static double GetSum(double[] numbers)
+    {
+        double sum = 0;
+        foreach (var number in numbers)
+        {
+            sum += number;
+        }
+        return sum;
+    }
+    static decimal GetSum(decimal[] numbers)
+    {
+        decimal sum = 0;
+        foreach (var number in numbers)
+        {
+            sum += number;
+        }
+        return sum;
+    }
+    static double GetProduct(double[] numbers)
+    {
+        double product = 1;
+        foreach (var number in numbers)
+        {
+            product *= number;
+        }
+        return product;
+    }
+    static decimal GetProduct(decimal[] numbers)
+    {
+        decimal product = 1;
+        foreach (var number in numbers)
+        {
+            product *= number;
+        }
+        return product;
+    }
+}
