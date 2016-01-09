@@ -1,1 +1,0 @@
-D:\SoftUni\02.Fundamental Level\04.High-Quality Code\02.CodeFormatting\CodeFormattingHomework\Event\bin\Debug\Event.exe.config
