@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\bin\Release\01.StringExtensions.dll.config
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\bin\Release\01.StringExtensions.XML
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\bin\Release\01.StringExtensions.dll
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\bin\Release\01.StringExtensions.pdb
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\obj\Release\01.StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\obj\Release\01.StringExtensions.dll
+C:\Users\user\Desktop\CodeDocumentationAndCommentsHW\01.StringExtensions\obj\Release\01.StringExtensions.pdb

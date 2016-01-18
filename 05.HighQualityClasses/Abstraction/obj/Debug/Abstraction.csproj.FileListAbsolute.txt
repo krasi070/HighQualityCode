@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\User\Desktop\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
+G:\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+G:\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

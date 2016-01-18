@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01.StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:_01.StringExtensions.StringExtensions">
+            <summary>
+            Provides static methods for converting string values to other types.
+            </summary>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Converts the given string value to its MD5Hash representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Coverts the given string value to its boolean representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToShort(System.String)">
+            <summary>
+            Converts the given string value to its short representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Converts the given string value to its integer representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToLong(System.String)">
+            <summary>
+            Converts the given string value to its long representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Converts the given string value to its DateTime representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalizes the first letter of the given string value.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Gets the string value between the two given strings.
+            </summary>
+            <param name="input">String from where to get the result.</param>
+            <param name="startString"></param>
+            <param name="endString"></param>
+            <param name="startFrom">Index from where the search for the string will begin.</param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Converts all cyrillic letters from the given string value to latin letters.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Converts all latin letters from the given string value to cyrillic letters.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Transforms the given string value from an invalid username to a valid username.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Transforms the given string value to a valid latin file name.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets the first characters in a string format from the given string value.
+            </summary>
+            <param name="input"></param>
+            <param name="charsCount"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Gets the file extension from the given string value.
+            </summary>
+            <param name="fileName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Converts the given file extension to its content type.
+            </summary>
+            <param name="fileExtension"></param>
+            <returns></returns>
+        </member>
+        <member name="M:_01.StringExtensions.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Converts the given string value to its byte array representation.
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
