@@ -1,0 +1,8 @@
+27.1.2016 г. 22:55:19 ч. - Warning - Warning: ping is too high - disconnect imminent
+27.1.2016 г. 22:55:19 ч. - Error - Error parsing request
+27.1.2016 г. 22:55:19 ч. - Critical - No connection string found in App.config
+27.1.2016 г. 22:55:19 ч. - Fatal - mscorlib.dll does not respond
+05.02.2016 г. 15:08:01 - Warning - Warning: ping is too high - disconnect imminent
+05.02.2016 г. 15:08:01 - Error - Error parsing request
+05.02.2016 г. 15:08:01 - Critical - No connection string found in App.config
+05.02.2016 г. 15:08:01 - Fatal - mscorlib.dll does not respond

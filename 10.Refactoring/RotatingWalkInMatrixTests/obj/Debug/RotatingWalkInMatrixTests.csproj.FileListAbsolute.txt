@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrixTests.dll
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrixTests.pdb
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\bin\Debug\GameFifteen.exe
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\bin\Debug\GameFifteen.pdb
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.dll
+C:\Users\user\Desktop\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.pdb
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrixTests.dll
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\bin\Debug\RotatingWalkInMatrixTests.pdb
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\bin\Debug\GameFifteen.exe
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\bin\Debug\GameFifteen.pdb
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.dll
+D:\SoftUni\02.Fundamental Level\04.High-Quality Code\10.Refactoring\RotatingWalkInMatrixTests\obj\Debug\RotatingWalkInMatrixTests.pdb
